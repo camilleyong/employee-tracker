@@ -1,5 +1,5 @@
 const express = require("express");
-const Employee = require("./lib/employee.js");
+const start = require("./lib/employee.js");
 
 const PORT = process.env.PORT || 3001;
 const app = express();
@@ -25,6 +25,7 @@ const db = mysql.createConnection(
   
   app.listen(PORT, () => {
     console.log(`Server running on port http://localhost:${PORT} 🚀`);
+    start();
   });
 
 
