@@ -26,7 +26,7 @@ THEN I am prompted to select an employee to update and their new role and this i
 ```
 
 ## Screenshot
-[!Screenshot](./Screen%20Shot%202022-10-04%20at%2010.51.33%20AM.png)
+![Screenshot](./Screen%20Shot%202022-10-04%20at%2010.51.33%20AM.png)
 
 ## Video Link
 (https://drive.google.com/file/d/1e7SIQWSSEQuJBRw7_0JzGB2KZRndtSay/view)
